@@ -21,6 +21,10 @@ p {
   padding: 0 20px;
 }
 
+.card {
+  border-radius: 0;
+}
+
 .result {
   padding: 60px 20px 20px;
 }
@@ -28,6 +32,7 @@ p {
 .result a {
   color: #343a40;
 }
+
 
 @media screen and (min-width:576px) {
   .row {
@@ -52,6 +57,7 @@ p {
   text-align: center;
   margin-top: 30px;
 }
+
 
 footer {
   background-color: #343a40;
